@@ -2,8 +2,4 @@
 
 ---
 
-<iframe width="560" height="315" src="视频/洗消/images/chujixixiao.mp4" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://sc.zhihu.blog/%E8%A7%86%E9%A2%91/%E6%B4%97%E6%B6%88/images/chujixixiao.mp4" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="视频/洗消/images/chujixixiao.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
