@@ -1,8 +1,8 @@
-﻿site_name: 杂志大全
-site_description: 博览群书。
-site_url: https://mkdocs.zhihu.blog/
-repo_url: https://github.com/shutouyabo/MkDocs
-#remote_name: linyuxuanlin/Wiki_MkDocs
+﻿site_name: work wiki
+site_description: 学习。
+site_url: https://sc.zhihu.blog
+repo_url: https://github.com/shutouyabo/cs-nj-wiki
+#remote_name: shutouyabo/work_wiki
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
@@ -114,7 +114,7 @@ extra:
       link: https://github.com/linyuxuanlin/File-host
       icon: fontawesome/regular/file-lines
 
-copyright: Copyright &copy; since 2000-2026 by 杂志大全
+copyright: Copyright &copy; since 2026 by work wiki
 
 markdown_extensions:
   - pymdownx.arithmatex:
